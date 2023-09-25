@@ -15,8 +15,7 @@ advisor_translates = {
   "senior advisor": "Старший советник",
   "negotiator": "Переговорщик",
   "leisure": "Советник по досугу",
-  "informer": "Советник по информации",
-  "qwerty": "Хуй. Пизда. Сковорода."
+  "informer": "Советник по информации"
 }
 answers = {}
 all_messages = {}
